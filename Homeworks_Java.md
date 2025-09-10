@@ -2,8 +2,8 @@
 
 В этом репозитории расположены домашние задания к каждой лекции.
 
-1. [Введение в Java: JDK, JRE, JVM, IntelliJ IDEA](https://github.com/YULLEN1/Homework_Java_1)
-2. Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений
+1. [Введение в Java: JDK, JRE, JVM, IntelliJ IDEA](https://github.com/YULLEN1/Homework_Java_1).
+2. Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений:
    - [задание 1](https://github.com/YULLEN1/Homework_Java_2.1);
    - [задание 2](https://github.com/YULLEN1/Homework_Java_2.2).
 3. Testability, авто-тесты, введение в ООП: объекты и методы:
