@@ -12,7 +12,7 @@
 6. [Инструменты для ручного тестирования мобильных приложений](https://docs.google.com/spreadsheets/d/1-ToBEth9an623HbE_bplgbFkOW6ll4Z_/edit?gid=1623484543#gid=1623484543).
 7. [Снифферинг. Настройка и возможности](https://docs.google.com/spreadsheets/d/1nHZeCnkZ0tZCeWhGsYkEil4NZ1WS0oOi/edit?gid=1223325030#gid=1223325030).
 
-## Автоматизация тестированиz мобильных приложений.
+## Автоматизация тестирования мобильных приложений.
 1. [Автоматизация тестирования мобильных приложений](https://github.com/YULLEN1/Automated_Mobile_Testing_Homework_2.1).
 2. [UIAutomator. Автоматизация тестирования Android](https://github.com/YULLEN1/Automated_Mobile_Testing_Homework_2.2).
 3. XCTest. Автоматизация тестирования iOS.
